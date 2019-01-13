@@ -3,10 +3,9 @@
 <p>Follow the instructions. It's quite easy!</p>
 <div>
 <ul>
-<li>Unzip the file after downloding from git. You will get a script which called setProject.sh . You have run this file</li>
-<li>Open your linux command prompt</li>
-<li>At first you have to provide proper permission for the shell script. Type <b>chmod 700 ./setProject.sh</b> . By this command the file
-will get only user permission to read, write and execute.</li>
+<li>Unzip the file after downloding from git. You will get a script which called setProject.sh . You have to run this file.</li>
+  <li>Open your linux command prompt by using <b>Ctrl+Alt+t</b></li>
+<li>At first you have to provide proper permission for the shell script. Type <b>chmod 700 ./setProject.sh</b> . By this command the file will get only user permission to read, write and execute.</li>
 <li>To run the script type in your command prompt <b>./setProject.sh projectFolderName</b>.</li>
 <li>Here projectFolderName means the directory name which need to select by you.</li>
 <li>If you run the above command you will get a html template skelaton which will contain index.html file and some neccessary
